@@ -1,1 +1,1 @@
-https://github.com/Sagabym/rsschool-cv/tree/rsschool-cv-html
+https://github.com/Sagabym/rsschool-cv
